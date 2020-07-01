@@ -1,7 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 
-# Custom functions created by R.Davilla used to graph nodes and edges
+# Custom functions created by R.Davila used to graph nodes and edges
 
 def show_weighted_graph(G):
     pos = nx.planar_layout(G)
